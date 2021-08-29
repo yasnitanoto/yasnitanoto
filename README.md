@@ -11,8 +11,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-ASDKJASHD
--->
 
 Hello! Welcome to my github. I'm Yasnita. I'm a beginner of python programming. I like to analyze data, organizing it, or mining data knowledge to gain information. 
 Besides, I love drawing, writing, playing music. And always have curiousity about how the universe work to everyone!
