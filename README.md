@@ -12,9 +12,10 @@
 - ⚡ Fun fact: ...
 -->
 
-Hello! Welcome to my github. I'm Yasnita. I'm a learner and data enthusiast. I like to analyze data, organizing it, or mining data to gain information or knowledge. 
-Besides, I love drawing, writing, playing music. And always have curiousity about how the universe work to everyone!
+Hello! Welcome to my github. I'm Yasnita. I'm a learner and data enthusiast. I like programming.
+Besides, I love drawing, writing, playing music. And I have big curiousity about how the universe work to everyone!
 
 
 - 🌱 I’m currently learning python programming, especially machine learning.
-
+- 🔭 I make website using html, php, js, css.
+- 😄 My favorite quote: "How I wonder what you are?"
